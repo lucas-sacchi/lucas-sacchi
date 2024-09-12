@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-msacchi/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-sacchi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-sacchi&layout=compact&theme=dark)
 
 ### Tecnologias que utilizo no meu dia a dia
 <div style="display: inline_block"><br/>
