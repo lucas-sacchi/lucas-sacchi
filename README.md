@@ -16,6 +16,6 @@
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-### Apaixonado por desenvolvimento de software e segurança da informação.
+### Apaixonado por engenharia de dados e segurança da informação.
 
 
