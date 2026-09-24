@@ -5,7 +5,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="2650.gif" width="100%"/>
+  <img src="2650.gif" width="50%"/>
 </div>
 
 <a href="https://git.io/typing-svg">
