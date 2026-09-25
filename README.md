@@ -26,8 +26,6 @@ class Eu:
         self.dia_a_dia = ["pipelines", "data lakes", "orquestração", "infra como código"]
         self.hobbies = ["criar jogos", "jogar jogos", "debugar jogos às 2h da manhã"]
 
-    def missao(self):
-        return "Transformar dados brutos em valor — e ideias malucas em jogos."
 ```
 
 - 🔭 Trabalho construindo **pipelines de dados** robustos e escaláveis na nuvem
